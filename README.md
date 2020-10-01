@@ -1,4 +1,4 @@
-![Figure_0](AliceBandit_Logo.png)
+![Figure_0](AliceBandit Logo.png)
 # Adversarial thresholding semi-bandits for online monitoring of ALICE detector controls
 
 The classical multi-armed bandit is one of the most common examples of sequential decision-making, either by trading-off between exploiting and exploring arms to maximise some payoff of purely exploring arms until the optimal arm is identified. In particular, a bandit player wanting to only pull arms with stochastic feedback exceeding a given threshold, has been studied extensively in a pure exploration context. However, numerous applications fail to be expressed, where a player wishes to balance the need to observe regions of an uncertain environment that are currently interesting (exploit) and checking if neglected regions have become interesting since last observed (explore).
