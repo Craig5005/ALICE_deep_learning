@@ -8,4 +8,6 @@ Due to the extreme conditions experienced in heavy-ion particle colliders, the p
 
 # Implementation
 
-The ATSBP folder contains two notebooks, ATSBP.ipynb and ATSBP_plots.ipynb. The former provides the code required for implementing adversarial thresholding semi-bandit algorithms in both fixed threshold and threshold interval settings. The actual datasets are not provided in this Github repo, but are available on request.
+The ATSBP folder contains two notebooks, ATSBP.ipynb and ATSBP_plots.ipynb. The former provides the code required for implementing adversarial thresholding semi-bandit algorithms in both fixed threshold and threshold interval settings. The latter contains the code for generating the necessary plots in our thesis, "adversarial thresholding semi-bandit problems".
+
+The actual datasets are not provided in this Github repo, but are available on request.
